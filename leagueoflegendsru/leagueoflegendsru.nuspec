@@ -6,7 +6,7 @@
     <title>League of Legends RU</title>
     <authors>Riot Games, Inc.</authors>
     <owners>dial8gue</owners>
-    <licenseUrl>https://na.leagueoflegends.com/en/legal/termsofuse</licenseUrl>
+    <licenseUrl>https://ru.leagueoflegends.com/ru/legal/termsofuse</licenseUrl>
     <projectUrl>https://signup.ru.leagueoflegends.com/ru/signup/index#/</projectUrl>
     <packageSourceUrl>https://github.com/dial8gue/chocolatey-packages/tree/master/leagueoflegendsru</packageSourceUrl>
     <iconUrl>https://lolstatic-a.akamaihd.net/riotbar/prod/1.6.91/images/navigation/icon-game-lol.png</iconUrl>
